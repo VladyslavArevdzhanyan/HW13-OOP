@@ -13,10 +13,6 @@ class TodoList {
       })
     }
     
-    clickAndDelete() {
-
-    }
-
     addTodo(todo) {
       this.todos.push(todo);
     }
