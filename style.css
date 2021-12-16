@@ -3,24 +3,24 @@ body {
 }
 
 #block {
-    width: 350px;
-    height: 500px;
+    width: 700px;
+    height: 700px;
     background-color: white;
     position: absolute;
     left: 0;
     right: 0;
     margin:0 auto;
-    top: calc(50% - 250px);
+    top: calc(50% - 350px);
     padding: 20px;
     overflow: scroll;
 }
 
 ul li {
     margin-top: 10px;
-    background-color: yellow;
     padding-left: 7px;
     list-style: none;
     color: black;
+    padding-bottom: 3px;
 }
 
 .set-status {
